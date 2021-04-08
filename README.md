@@ -1,4 +1,4 @@
-<h2> Hi, I'm Samet AKBAL! <img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Samet AKBAL!  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230">
 <p><em>Software Developer at <a href="https://www.pdaccess.com/">PDAccess</a></br>
 
