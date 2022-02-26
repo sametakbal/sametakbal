@@ -7,8 +7,6 @@
 [![GitHub Samet AKBAL](https://img.shields.io/github/followers/sametakbal?label=follow&style=social)](https://github.com/sametakbal)
 [![Youtube Samet AKBAL](https://img.shields.io/youtube/channel/views/UC_m9nFLfzAMEZbFtaaYp1Aw?style=social)](https://www.youtube.com/user/aisV25)
 
-### <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="50"> A little more about me...  
-
 ```javascript
 const sametakbal = {
   programmingLanguages: [Javascript, Java, Go, Dart],
