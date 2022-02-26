@@ -1,5 +1,4 @@
 <h2> Hi, I'm Samet AKBAL!  <img src="habitat.png" height="20"></h2>
-<img align='right' src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="230">
 <p><em>Software Developer</br>
 
 [![Twitter: akbaldev](https://img.shields.io/twitter/follow/akbaldev?style=social)](https://twitter.com/akbaldev)
