@@ -8,11 +8,10 @@
 
 ```javascript
 const sametakbal = {
-  programmingLanguages: [Javascript, Java, Go, Dart],
-  frameworksAndTools: [Vue, Spring Boot, Flutter, Postgresql, Docker],
+  programmingLanguages: [Javascript, Java, C#, Dart],
+  frameworksAndTools: [Vue, Spring Boot, .NET Core, Flutter, Postgresql, Docker],
   architecture: ["monolithic","microservices", "event-driven", 
   "design system pattern"]
 }
 ```
-  ![Samet Akbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametakbal&count_private=true&show_icons=true)
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametakbal&label=Profile%20views&color=0e75b6&style=flat" /> </p>
