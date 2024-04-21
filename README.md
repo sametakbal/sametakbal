@@ -1,16 +1,16 @@
 <h2> Hi, I'm Samet AKBAL!  <img src="habitat.png" height="20"></h2>
-<p><em>Software Developer</br>
+<p><em>Software Engineer</br>
   
-[![Twitter: akbaldev](https://img.shields.io/twitter/follow/akbaldev?style=social)](https://twitter.com/akbaldev)
+[![X: akbaldev](https://img.shields.io/twitter/follow/akbaldev?style=social)](https://x.com/akbaldev)
 [![Linkedin: samet-akbal-356336112](https://img.shields.io/badge/samet-akbal-356336112?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sametakbal/)](https://www.linkedin.com/in/sametakbal/)
 [![GitHub Samet AKBAL](https://img.shields.io/github/followers/sametakbal?label=follow&style=social)](https://github.com/sametakbal)
 [![Youtube Samet AKBAL](https://img.shields.io/youtube/channel/views/UC_m9nFLfzAMEZbFtaaYp1Aw?style=social)](https://www.youtube.com/user/aisV25)
 
 ```javascript
 const sametakbal = {
-  programmingLanguages: [Javascript, Java, C#, Dart],
-  frameworksAndTools: [Spring Boot, .NET Core, Vue, Angular, React, Flutter],
-  databases: [Postgresql, MSSQL, Oracle, MySql, MongoDB],
+  programmingLanguages: [Java, Javascript, Typescript],
+  frameworksAndTools: [Spring Boot, .NET Core, Vue, Angular, React, Flutter, React Native],
+  databases: [Postgresql, MSSQL, Oracle, MySql, MongoDB, Firebase],
   architecture: ["monolithic","microservices", "event-driven", 
   "design system pattern"]
 }
