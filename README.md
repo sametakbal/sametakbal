@@ -9,7 +9,7 @@
 ```javascript
 const sametakbal = {
   programmingLanguages: [Java, Javascript, Typescript],
-  frameworksAndTools: [Spring Boot, .NET Core, Vue, Angular, React, Flutter, React Native],
+  frameworksAndTools: [Spring Boot, Vue, Angular, React, Flutter, React Native],
   databases: [Postgresql, MSSQL, Oracle, MySql, MongoDB, Firebase],
   architecture: ["monolithic","microservices", "event-driven", 
   "design system pattern"]
