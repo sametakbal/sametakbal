@@ -3,8 +3,8 @@
   
 [![X: akbaldev](https://img.shields.io/twitter/follow/akbaldev?style=social)](https://x.com/akbaldev)
 [![Linkedin: samet-akbal-356336112](https://img.shields.io/badge/samet-akbal-356336112?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sametakbal/)](https://www.linkedin.com/in/sametakbal/)
-[![GitHub Samet AKBAL](https://img.shields.io/github/followers/sametakbal?label=follow&style=social)](https://github.com/sametakbal)
 [![Youtube Samet AKBAL](https://img.shields.io/youtube/channel/views/UC_m9nFLfzAMEZbFtaaYp1Aw?style=social)](https://www.youtube.com/user/aisV25)
+[![Youtube Samet AKBAL](https://img.shields.io/youtube/channel/subscribers/UC_m9nFLfzAMEZbFtaaYp1Aw?style=social)](https://www.youtube.com/user/aisV25)
 
 ```javascript
 const sametakbal = {
