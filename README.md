@@ -9,10 +9,9 @@
 ```javascript
 const sametakbal = {
   programmingLanguages: [Java, Javascript, Typescript],
-  frameworksAndTools: [Spring Boot, Vue, Angular, React, Flutter, React Native],
+  frameworksAndTools: [Spring Boot, React, React Native],
   databases: [Postgresql, MSSQL, Oracle, MySql, MongoDB, Firebase],
-  architecture: ["monolithic","microservices", "event-driven", 
-  "design system pattern"]
+  architecture: ["monolithic","microservices", "event-driven", "design system pattern"]
 }
 ```
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametakbal&label=Profile%20views&color=0e75b6&style=flat" /> </p>
