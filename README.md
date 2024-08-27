@@ -1,4 +1,4 @@
-<h2> Hi, I'm Samet AKBAL!  <img src="habitat.png" height="20"></h2>
+<h2> Hi, I'm Samet AKBAL!  
 <p><em>Software Engineer</br>
   
 [![X: akbaldev](https://img.shields.io/twitter/follow/akbaldev?style=social)](https://x.com/akbaldev)
