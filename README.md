@@ -1,17 +1,46 @@
-<h2> Hi, I'm Samet AKBAL!  
-<p><em>Software Engineer</br>
-  
-[![X: akbaldev](https://img.shields.io/twitter/follow/akbaldev?style=social)](https://x.com/akbaldev)
-[![Linkedin: samet-akbal-356336112](https://img.shields.io/badge/samet-akbal-356336112?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sametakbal/)](https://www.linkedin.com/in/sametakbal/)
-[![Youtube Samet AKBAL](https://img.shields.io/youtube/channel/views/UC_m9nFLfzAMEZbFtaaYp1Aw?style=social)](https://www.youtube.com/user/aisV25)
-[![Youtube Samet AKBAL](https://img.shields.io/youtube/channel/subscribers/UC_m9nFLfzAMEZbFtaaYp1Aw?style=social)](https://www.youtube.com/user/aisV25)
+<div align="center">
 
-```javascript
-const sametakbal = {
-  programmingLanguages: [Java, Javascript, Typescript],
-  frameworksAndTools: [Spring Boot, React, Flutter],
-  databases: [Postgresql, MSSQL, Oracle, MySql, MongoDB, Firebase],
-  architecture: ["monolithic","microservices", "event-driven", "design system pattern"]
+# 👋 Selam, ben Samet Akbal
+### **Backend Software Engineer** & Java Ecosystem Specialist
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sametakbal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/akbaldev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://www.youtube.com/user/aisV25"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+</div>
+
+---
+
+### ☕ Java Core Profile
+
+```java
+public interface SoftwareEngineer {
+    String getFocus();
+    List<String> getCoreEcosystem();
+    void buildResilientSystems();
 }
-```
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametakbal&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+public record SametAkbal(
+    String name,
+    String title,
+    List<String> coreEcosystem,
+    String architectureFocus
+) implements SoftwareEngineer {
+
+    @Override
+    public String getFocus() {
+        return "High-Performance Backend Systems & Distributed Architecture";
+    }
+
+    @Override
+    public List<String> getCoreEcosystem() {
+        return List.of("Java 21+", "Spring Boot / WebFlux", "Spring AI", "Apache Kafka", "PostgreSQL & Oracle");
+    }
+
+    @Override
+    public void buildResilientSystems() {
+        System.out.println("Let's scale and conquer.");
+    }
+}
